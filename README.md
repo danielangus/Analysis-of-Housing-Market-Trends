@@ -12,7 +12,7 @@ The stages in the analysis proceed as follows:
 
 ## Technologies
 
-This project was complete using Python 2.7. Libraries include:
+This project was completed using Python 2.7. Libraries include:
 * sklearn
 * numpy
 * pandas
