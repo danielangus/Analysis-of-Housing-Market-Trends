@@ -5,18 +5,18 @@ This project is part of Udacity's Machine Learning Engineer Nanodegree curriculu
 ## Analysis
 
 The stages in the analysis proceed as follows:
--Data Exploration - creating exploratory data plots
--Developing a Model - choosing a metric and cross-validation strategy
--Analyzing Model Performance - selecting a model to minimize bias and variance
--Evaluating Model Performace - optimizing the model, and comparing it's predictions to true values
+* Data Exploration - creating exploratory data plots
+* Developing a Model - choosing a metric and cross-validation strategy
+* Analyzing Model Performance - selecting a model to minimize bias and variance
+* Evaluating Model Performace - optimizing the model, and comparing it's predictions to true values
 
 ## Technologies
 
 This project was complete using Python 2.7. Libraries include:
--sklearn
--numpy
--pandas
--matplotlib
+* sklearn
+* numpy
+* pandas
+* matplotlib
 
 ## Results
 
